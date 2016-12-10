@@ -11,8 +11,8 @@
     ctx.fillRect(0,0,canvas.width ,canvas.height / 2);
     ctx.fillStyle = "rgb(100, 100, 130)";
     ctx.fillRect(0,canvas.height / 2,canvas.width ,canvas.height);
-    var text = "Started with CoffeeScript by mlalisse."
-    var text2 = "hosted and corrected in Js by lsirigna"
+    var text = "USE ARROWS TO MOVE"
+    var text2 = "USE MOUSE TO SHOT"
     var text3 = "feel free to contribute"
     ctx.font = "10pt Verdana";
     ctx.textAlign = "center"; 
