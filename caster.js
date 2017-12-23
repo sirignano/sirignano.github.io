@@ -43,7 +43,7 @@
 /* 2 */
 
   img2 = new Image();
-  img2.src = '../img/murold.jpg';
+  img2.src = '../img/mur2.jpg';
   img2.onload = function() {
     return draw();
   };
